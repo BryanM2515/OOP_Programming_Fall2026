@@ -25,7 +25,10 @@ private:
     std::string make;
     std::string model;
     int year;
-    double MPG;
+    double mpg;
+    double mileage;
+    double fuel_capacity;
+    double fuel_level;
 };
 
 #endif
